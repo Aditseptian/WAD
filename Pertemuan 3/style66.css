@@ -1,0 +1,15 @@
+body{
+    background-color: lightblue;
+    background-image: url("pink-flowers.webp");
+    background-repeat: no-repeat;
+    background-size: 150%;
+    background-position: top;
+}
+
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkmagenta;
+}
+p{
+    text-align: center;
+}
