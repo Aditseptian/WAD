@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>Latihan Hyperlink</title>
+</head>
+<body>
+
+<h3>Pemerograman Web</h3>
+<p>klik <a href="https://www.netflix.com/id-en">disini</a> untuk Keterangan Lebih lanjut </p>
+
+    
+</ul>
+</body>
+</html>

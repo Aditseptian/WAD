@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>html paraghrap dan heading</title>
+</head>
+<body>
+
+    <p><b>Selamat Datang Di SI-45-05</b> <i> di mata kuliah Pemerograman Web </i></p>
+    <p>Nama Saya Adalah <u>Aditya Septian Arya Nugraha</u></p>
+    <p><b> saya berasal dari <i>amerika selatan</i></b></p>
+    <hr>
+    <p><strong>Pengumuman</strong>,kuliah Pemerogramanweb Tanggal 1 oktober 2019,<em>ditiadakan!</em></p>
+</body>
+</html>
