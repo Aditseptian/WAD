@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>AKN BojongSoang</title>
+    </head>
+
+    <body> 
+        <h1>JavaScript Can Change  Images</h1>
+        <img id="myimage" onclick="ChangeImage()" src="G2_Esportslogo_square.png" alt="no img" width="100" height="100">
+        <p>click The image to cahnge image.</p>
+        <script>
+            function ChangeImage(){
+                var image = document.getElementById('myImage');
+                    if (image.src.match("T")){
+                        image.src ="G2_Esportslogo_square.png" ;
+                }   else {
+                        image.src= "T1.png" ;
+                }
+            }
+    </script>
+</body>
+</html>
